@@ -8,4 +8,4 @@
 
 <img src="https://github.com/XmauricioX/MERCADO_LIEBRE_5/blob/main/public/images/preview.PNG">
 
-<img serc="https://github.com/XmauricioX/MERCADO_LIEBRE_5/blob/main/public/images/preview_2.PNG">
+<img src="https://github.com/XmauricioX/MERCADO_LIEBRE_5/blob/main/public/images/preview_2.PNG">
