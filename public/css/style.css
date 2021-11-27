@@ -189,15 +189,6 @@ footer article  p{
     font-size: 10px;
     color: var(--Gris-oscuro);
 }
-article{
-    transition: width 2s, height 2s,transform 1.5s;
-}
-article:hover{
-    width: auto;
-    height: auto;
-    transform: rotate(360deg);
-    box-shadow: none;
-}
 
 /* MEDIA */
 
